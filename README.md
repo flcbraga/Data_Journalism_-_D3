@@ -1,1 +1,1 @@
-# Data_Journalism_-_D3
+# Data_Journalism_D3
